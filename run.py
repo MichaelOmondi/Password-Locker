@@ -44,7 +44,7 @@ def check_existing_credentials(account_name):
     return Credentials.credentials_exist(account_name) 
 def display_credentials():
     '''
-    Function that check if a user exist with that account name and return a boolean
+    Function that check if a user exist with that account name and  return a boolean
     '''
     return Credentials.credentials_exist(account_name) 
 
