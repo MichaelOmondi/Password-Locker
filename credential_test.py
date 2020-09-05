@@ -19,7 +19,7 @@ class TestCredentials(unittest.TestCase):
 
     def test_init(self):
         '''
-        test_init test case  to test if the object is initialized properly
+        test_init test case to test if the object is initialized properly
         '''
         
         self.assertEqual(self.new_credential.account_name, "amiinegal")
@@ -49,7 +49,7 @@ class TestCredentials(unittest.TestCase):
 
     def test_delete_credentials(self):
         '''
-        test_delete_credential to test if we can remove a credential from our credential list
+        test_delete_credential to test if we can remove a  credential from our credential list
         '''
         self.new_credential.save_credential()
         test_credential = Credentials("manka","8888")
