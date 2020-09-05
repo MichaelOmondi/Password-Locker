@@ -19,7 +19,7 @@ class TestCredentials(unittest.TestCase):
 
     def test_init(self):
         '''
-        test_init test case to test if the object is initialized properly
+        test_init test case  to test if the object is initialized properly
         '''
         
         self.assertEqual(self.new_credential.account_name, "amiinegal")
