@@ -28,7 +28,7 @@ class TestUser(unittest.TestCase):
 
     def tearDown(self):
         '''
-        tearDown method that does the clean up after each test case has  run.
+        tearDown method that does the clean up after each   test case has run.
         ''' 
         User.user_list = []
     
