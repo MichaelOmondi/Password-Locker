@@ -8,7 +8,7 @@ Michael Omondi
 
 # Description
 
-This is a an application which helps one to generate passwords and even manage the password.
+This is a an application which helps one to generate passwords and even manage user's password.
 
 # Known bugs
 
