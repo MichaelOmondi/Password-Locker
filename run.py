@@ -8,7 +8,7 @@ import random
 
 def create_credentials(account_name,password):
     '''
-    Function to create a new credential
+    Function  to create a new credential
     '''
     new_credentials = Credentials(account,password)
     return new_credentials
