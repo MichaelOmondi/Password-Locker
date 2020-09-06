@@ -5,7 +5,7 @@ from user import User
 
 class Credentials:
     '''
-    Class that generates new  instances of the credentials.
+    Class that generates new instances of the credentials.
     '''
     credential_list = []
     def save_credential(self):
