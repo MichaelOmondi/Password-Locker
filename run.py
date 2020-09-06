@@ -66,7 +66,7 @@ def main():
                 
                 while True:
                     print("Create an account")
-                    created_account_name = input(">Enter name:  ")
+                    created_account_name = input(">Enter your acount name:  ")
             
                     created_account_password = input(">Enter your password:  ")
                 
