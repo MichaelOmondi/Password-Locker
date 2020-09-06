@@ -10,6 +10,10 @@ Michael Omondi
 
 This is a an application which helps one to generate passwords and even manage user's password.
 
+# BDD (Specifications)
+Go to the terminal and run the run.py file, it displays the istructions and short key words that takes a sppecific imput.
+
+
 # Known bugs
 
 There are no known bugs in this project 
@@ -27,3 +31,4 @@ omondimike11@gmail.com
 # License
 
 MIT copyright license Copyright (c) 2020 Michael Omondi
+
