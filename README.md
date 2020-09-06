@@ -12,11 +12,11 @@ This is a an application which helps one to generate passwords and even manage u
 
 # Known bugs
 
-There are no known bugs in this projects 
+There are no known bugs in this project 
 
 # Technolgy used
 
-python.
+Python.
 
 # Support and contact details
 
