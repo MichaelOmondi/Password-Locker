@@ -14,7 +14,7 @@ This is a an application which helps one to generate passwords and even manage u
 *Run the command run.py
 | Given | When | Then |
 | :---------------- | :---------------: | ------------------: |
-| User Opens the application on the terminal | User runs the command ```$ ./credential.py```| Welcome to Password Locker Application... <br>* CN ---  Create New Account * HA ---  Have An Account |
+| User Opens the application on the terminal | User runs the command ```$ run.py```| Welcome to Password Locker Application... <br>* CN ---  Create New Account * HA ---  Have An Account |
 |User Selects  CN| User inputs username and password| Hello ```username```, Your have succesfully created your username! Your password is: ```password```|
 |User Selects HA  | User Enters password and username he signed up with| Abbreviations menu to help you navigate through the application|
 | User wants to Store new credentials in the application| User Enters ```CC```|Enter Account, username, password<br>choose ```tp``` to enter your password or ```gp``` for the application to generate a password for you |
